@@ -1,0 +1,90 @@
+﻿@model IEnumerable<dynamic>
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <h2 class="fw-bold text-dark mb-0">🎓 Transkript ve Notlar</h2>
+            <small class="text-muted">Dönem notlarınızı buradan takip edebilirsiniz.</small>
+        </div>
+        <div>
+            <a href="/Ogrenci/DersSec" class="btn btn-primary shadow-sm me-2">
+                <i class="fa-solid fa-plus-circle"></i> Ders Seç
+            </a>
+            <a asp-controller="Account" asp-action="Logout" class="btn btn-danger shadow-sm">
+                <i class="fa-solid fa-right-from-bracket"></i> Çıkış
+            </a>
+        </div>
+    </div>
+
+    <div class="card border-0 shadow-sm rounded-3 overflow-hidden">
+        <div class="table-responsive">
+            <table class="table table-hover align-middle mb-0">
+                <thead class="bg-light text-secondary">
+                    <tr>
+                        <th class="py-3 ps-4">Ders Adı</th>
+                        <th class="text-center">Vize</th>
+                        <th class="text-center">Final</th>
+                        <th class="text-center">Ortalama</th>
+                        <th class="text-center">Harf Notu</th>
+                        <th class="text-center">Durum</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        foreach (var item in Model)
+                        {
+                            // Renklendirme Mantığı
+                            string badgeClass = "bg-secondary";
+                            string statusIcon = "";
+                            string statusText = "";
+
+                            if (item.HarfNotu == "FF")
+                            {
+                                badgeClass = "bg-danger";
+                                statusIcon = "<i class='fa-solid fa-xmark text-danger'></i>";
+                                statusText = "Kaldı";
+                            }
+                            else if (string.IsNullOrEmpty((string)item.HarfNotu))
+                            {
+                                badgeClass = "bg-warning text-dark";
+                                statusIcon = "<i class='fa-regular fa-clock text-warning'></i>";
+                                statusText = "Bekleniyor";
+                            }
+                            else
+                            {
+                                badgeClass = "bg-success";
+                                statusIcon = "<i class='fa-solid fa-check text-success'></i>";
+                                statusText = "Geçti";
+                            }
+
+                            <tr>
+                                <td class="ps-4 fw-bold text-dark">@item.DersAdi</td>
+                                <td class="text-center">@(item.Vize ?? "-")</td>
+                                <td class="text-center">@(item.Final ?? "-")</td>
+                                <td class="text-center fw-bold">@(item.Ortalama ?? "-")</td>
+                                <td class="text-center">
+                                    <span class="badge @badgeClass rounded-pill" style="min-width:45px;">
+                                        @(item.HarfNotu ?? "?")
+                                    </span>
+                                </td>
+                                <td class="text-center text-muted small">
+                                    @Html.Raw(statusIcon) @statusText
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="6" class="text-center py-5 text-muted">
+                                <i class="fa-solid fa-folder-open fa-2x mb-3 d-block"></i>
+                                Henüz not girişi yapılmamış.
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

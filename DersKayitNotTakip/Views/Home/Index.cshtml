@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Anasayfa";
+}
+
+<div class="px-4 py-5 my-5 text-center">
+    <div class="container">
+        <div class="mb-4 text-primary">
+            <i class="fa-solid fa-graduation-cap fa-6x"></i>
+        </div>
+        <h1 class="display-5 fw-bold text-dark">Öğrenci Bilgi Sistemi</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4 text-muted">
+                Ders kayıtlarınızı yapın, notlarınızı takip edin ve akademik süreçlerinizi tek bir noktadan yönetin.
+                Hızlı, güvenli ve mobil uyumlu yeni nesil otomasyon.
+            </p>
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                <a href="/Account/Login" class="btn btn-primary btn-lg px-4 gap-3 shadow-sm">
+                    <i class="fa-solid fa-right-to-bracket"></i> Sisteme Giriş Yap
+                </a>
+                <a href="#ozellikler" class="btn btn-outline-secondary btn-lg px-4">
+                    Detaylı Bilgi
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container px-4 py-5" id="ozellikler">
+    <h2 class="pb-2 border-bottom text-center mb-5 text-secondary">Sistem Özellikleri</h2>
+    <div class="row g-4 py-3 row-cols-1 row-cols-lg-3">
+
+        <div class="col">
+            <div class="card h-100 border-0 shadow-sm hover-effect p-4 text-center">
+                <div class="text-primary mb-3">
+                    <i class="fa-solid fa-book-open-reader fa-3x"></i>
+                </div>
+                <h3 class="fs-4 fw-bold">Ders Seçimi</h3>
+                <p class="text-muted">Aktif dönemdeki dersleri görüntüleyin, kontenjanları kontrol edin ve tek tıkla kaydınızı tamamlayın.</p>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card h-100 border-0 shadow-sm hover-effect p-4 text-center">
+                <div class="text-success mb-3">
+                    <i class="fa-solid fa-chart-line fa-3x"></i>
+                </div>
+                <h3 class="fs-4 fw-bold">Not Takibi</h3>
+                <p class="text-muted">Vize, final ve bütünleme notlarınızı anlık olarak görüntüleyin. Ortalama hesaplaması otomatik yapılır.</p>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card h-100 border-0 shadow-sm hover-effect p-4 text-center">
+                <div class="text-warning mb-3">
+                    <i class="fa-solid fa-shield-halved fa-3x"></i>
+                </div>
+                <h3 class="fs-4 fw-bold">Güvenli Altyapı</h3>
+                <p class="text-muted">Kişisel verileriniz ve akademik kayıtlarınız modern şifreleme yöntemleriyle güvenle saklanır.</p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<style>
+    .hover-effect {
+        transition: transform 0.3s ease;
+    }
+
+        .hover-effect:hover {
+            transform: translateY(-10px);
+        }
+</style>

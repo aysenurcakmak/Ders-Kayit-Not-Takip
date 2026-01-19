@@ -1,0 +1,51 @@
+﻿@model List<DersKayitNotTakip.Models.DersAcma>
+
+<div class="container py-4">
+    <div class="d-flex justify-content-between align-items-center mb-5">
+        <div>
+            <h2 class="fw-bold text-dark mb-0">📚 Ders Seçimi</h2>
+            <p class="text-muted small mb-0">Dönem derslerine buradan kayıt olabilirsiniz.</p>
+        </div>
+        <a href="/Ogrenci/Panel" class="btn btn-outline-secondary shadow-sm">
+            <i class="fa-solid fa-arrow-left me-2"></i> Paneline Dön
+        </a>
+    </div>
+
+    @if (TempData["Hata"] != null)
+    {
+        <div class="alert alert-danger shadow-sm">@TempData["Hata"]</div>
+    }
+    @if (TempData["Basarili"] != null)
+    {
+        <div class="alert alert-success shadow-sm">@TempData["Basarili"]</div>
+    }
+
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var d in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 border-0 shadow-sm hover-card">
+                        <div class="card-body text-center p-4">
+                            <div class="mb-3 text-primary bg-primary bg-opacity-10 rounded-circle d-inline-flex p-3">
+                                <i class="fa-solid fa-book-open fa-2x"></i>
+                            </div>
+                            <h5 class="card-title fw-bold">@d.Ders.DersAdi</h5>
+                            <p class="text-muted small mb-3">@d.OgretimUyesi.Ad @d.OgretimUyesi.Soyad</p>
+                        </div>
+                        <div class="card-footer bg-white border-0 p-3 pt-0">
+                            <a href="/Ogrenci/DersKayit/@d.DersAcmaId" class="btn btn-outline-success w-100 fw-bold">
+                                <i class="fa-solid fa-plus"></i> Kaydol
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12 alert alert-warning text-center">Açık ders bulunamadı.</div>
+        }
+    </div>
+</div>

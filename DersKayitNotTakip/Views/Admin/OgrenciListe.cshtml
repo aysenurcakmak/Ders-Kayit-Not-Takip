@@ -1,0 +1,80 @@
+﻿@model List<DersKayitNotTakip.Models.Ogrenci>
+
+<div class="card card-custom p-4 border-0 shadow">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h3 class="text-primary fw-bold"><i class="fa-solid fa-user-graduate"></i> Öğrenci Listesi</h3>
+        <a asp-action="OgrenciEkle" class="btn btn-primary shadow-sm fw-bold">
+            <i class="fa-solid fa-user-plus"></i> Yeni Öğrenci
+        </a>
+    </div>
+
+    @if (TempData["Hata"] != null)
+    {
+        <div class="alert alert-danger shadow-sm d-flex align-items-center">
+            <i class="fa-solid fa-circle-exclamation me-2"></i> @TempData["Hata"]
+        </div>
+    }
+    @if (TempData["Basarili"] != null)
+    {
+        <div class="alert alert-success shadow-sm d-flex align-items-center">
+            <i class="fa-solid fa-check-circle me-2"></i> @TempData["Basarili"]
+        </div>
+    }
+
+    <div class="table-responsive">
+        <table class="table table-hover align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>Öğrenci Adı</th>
+                    <th>Email</th>
+                    <th>Bölüm</th>
+                    <th>Doğum Tarihi</th>
+                    <th class="text-end" style="width: 130px;">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var o in Model)
+                    {
+                        <tr>
+                            <td class="fw-bold text-dark">
+                                <div class="d-flex align-items-center">
+                                    <div class="bg-primary bg-opacity-10 text-primary rounded-circle d-flex align-items-center justify-content-center me-2" style="width: 35px; height: 35px;">
+                                        <i class="fa-solid fa-user"></i>
+                                    </div>
+                                    @o.Ad @o.Soyad
+                                </div>
+                            </td>
+                            <td>
+                                <a href="mailto:@o.Email" class="text-decoration-none text-muted">@o.Email</a>
+                            </td>
+                            <td><span class="badge bg-info text-dark border">@o.Bolum?.BolumAdi</span></td>
+                            <td>
+                                <i class="fa-regular fa-calendar me-1 text-muted"></i>
+                                @(o.DogumTarihi.HasValue? o.DogumTarihi.Value.ToString("dd.MM.yyyy") : "-")
+                            </td>
+                            <td class="text-end">
+                                <a asp-action="OgrenciDuzenle" asp-route-id="@o.OgrenciId" class="btn btn-sm btn-outline-primary me-1" title="Düzenle">
+                                    <i class="fa-solid fa-pen-to-square"></i>
+                                </a>
+                                <a asp-action="OgrenciSil" asp-route-id="@o.OgrenciId" class="btn btn-sm btn-outline-danger" title="Sil">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5" class="text-center text-muted p-5">
+                            <i class="fa-solid fa-user-slash fa-2x mb-3 d-block opacity-50"></i>
+                            Henüz kayıtlı öğrenci bulunmamaktadır.
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,64 @@
+﻿@model IEnumerable<DersKayitNotTakip.Models.Bolum>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card card-custom p-4 border-0 shadow">
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h3 class="text-secondary fw-bold"><i class="fa-solid fa-building-columns"></i> Bölümler</h3>
+                <a asp-action="BolumEkle" class="btn btn-warning text-white shadow-sm fw-bold">
+                    <i class="fa-solid fa-plus"></i> Bölüm Ekle
+                </a>
+            </div>
+
+            @if (TempData["Hata"] != null)
+            {
+                <div class="alert alert-danger shadow-sm d-flex align-items-center">
+                    <i class="fa-solid fa-circle-exclamation me-2"></i> @TempData["Hata"]
+                </div>
+            }
+            @if (TempData["Basarili"] != null)
+            {
+                <div class="alert alert-success shadow-sm d-flex align-items-center">
+                    <i class="fa-solid fa-check-circle me-2"></i> @TempData["Basarili"]
+                </div>
+            }
+
+            <div class="table-responsive">
+                <table class="table table-hover align-middle">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Bölüm Adı</th>
+                            <th class="text-end" style="width: 100px;">İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            @foreach (var b in Model)
+                            {
+                                <tr>
+                                    <td class="fw-bold text-dark">@b.BolumAdi</td>
+                                    <td class="text-end">
+                                        <a asp-action="BolumSil" asp-route-id="@b.BolumId" class="btn btn-sm btn-outline-danger" title="Sil">
+                                            <i class="fa-solid fa-trash"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="2" class="text-center text-muted py-4">
+                                    <i class="fa-solid fa-folder-open fa-2x mb-2 d-block"></i>
+                                    Henüz bölüm eklenmemiş.
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

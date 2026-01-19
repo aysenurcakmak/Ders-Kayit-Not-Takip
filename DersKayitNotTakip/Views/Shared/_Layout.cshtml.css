@@ -1,0 +1,31 @@
+﻿/* Genel Font Ayarı */
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Link renklerini sisteme uydurma */
+a {
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+    a:hover {
+        color: #0d6efd; /* Bootstrap Primary Color */
+    }
+
+/* Buton focus efekti */
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #0d6efd;
+}
+
+/* Footer'ın sayfa altına yapışmasını garantiye alma */
+html {
+    position: relative;
+    min-height: 100%;
+}

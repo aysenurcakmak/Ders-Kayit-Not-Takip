@@ -1,0 +1,35 @@
+﻿@model DersKayitNotTakip.Models.Der
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card card-custom p-4">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h3 class="card-title text-danger m-0">Ders Tanımla</h3>
+                <a href="/Admin/DersListe" class="btn btn-sm btn-outline-secondary">
+                    <i class="fa-solid fa-arrow-left"></i> Listeye Dön
+                </a>
+            </div>
+
+            <form method="post">
+                <div class="mb-3">
+                    <label class="form-label">Ders Kodu</label>
+                    <input name="DersKodu" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Ders Adı</label>
+                    <input name="DersAdi" class="form-control" required />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Bölüm</label>
+                    <select name="BolumId" class="form-select">
+                        @foreach (var b in ViewBag.Bolumler)
+                        {
+                            <option value="@b.BolumId">@b.BolumAdi</option>
+                        }
+                    </select>
+                </div>
+                <button class="btn btn-danger w-100">Kaydet</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,74 @@
+﻿@model DersKayitNotTakip.Models.Ogrenci
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card card-custom p-4 border-0 shadow">
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h3 class="card-title text-primary fw-bold m-0">
+                    <i class="fa-solid fa-user-pen"></i> Öğrenci Düzenle
+                </h3>
+                <a href="/Admin/OgrenciListe" class="btn btn-sm btn-outline-secondary">
+                    <i class="fa-solid fa-arrow-left"></i> Listeye Dön
+                </a>
+            </div>
+
+            <form method="post">
+                <input type="hidden" asp-for="OgrenciId" />
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Ad</label>
+                        <input asp-for="Ad" class="form-control" required />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Soyad</label>
+                        <input asp-for="Soyad" class="form-control" required />
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Doğum Tarihi</label>
+                        <input asp-for="DogumTarihi" type="date" class="form-control" required />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Email</label>
+                        <input asp-for="Email" type="email" class="form-control" required />
+                    </div>
+                </div>
+
+                <div class="mb-4">
+                    <label class="form-label fw-bold">Bölüm</label>
+                    <select name="BolumId" class="form-select" required>
+                        @foreach (var b in ViewBag.Bolumler)
+                        {
+                            <option value="@b.BolumId" selected="@(b.BolumId == Model.BolumId ? "selected" : null)">
+                                @b.BolumAdi
+                            </option>
+                        }
+                    </select>
+                </div>
+
+                <hr class="text-muted">
+
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold text-primary">Kullanıcı Adı</label>
+                        <input name="KullaniciAdi" value="@ViewBag.KullaniciAdi" class="form-control" required />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold text-primary">Şifre</label>
+                        <input name="Sifre" value="@ViewBag.Sifre" type="text" class="form-control" required />
+                    </div>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-lg shadow-sm">
+                        <i class="fa-solid fa-save"></i> Değişiklikleri Kaydet
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

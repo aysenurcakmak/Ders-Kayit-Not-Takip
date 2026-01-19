@@ -1,0 +1,103 @@
+﻿@model DersKayitNotTakip.Models.OgretimUyesi
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card card-custom p-4 border-0 shadow">
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h3 class="card-title text-success fw-bold m-0">
+                    <i class="fa-solid fa-user-plus"></i> Hoca Ekle
+                </h3>
+                <a href="/Admin/OgretimUyesiListe" class="btn btn-sm btn-outline-secondary">
+                    <i class="fa-solid fa-arrow-left"></i> Listeye Dön
+                </a>
+            </div>
+
+            @if (ViewBag.Hata != null)
+            {
+                <div class="alert alert-danger shadow-sm">
+                    <i class="fa-solid fa-circle-exclamation me-2"></i> @ViewBag.Hata
+                </div>
+            }
+
+            <form method="post">
+
+                <div class="row mb-3">
+                    <div class="col-md-2">
+                        <label class="form-label fw-bold text-secondary">Unvan</label>
+                        <select asp-for="Unvan" class="form-select">
+                            <option value="Arş. Gör.">Arş. Gör.</option>
+                            <option value="Dr. Öğr. Üyesi">Dr. Öğr. Üyesi</option>
+                            <option value="Doç. Dr.">Doç. Dr.</option>
+                            <option value="Prof. Dr.">Prof. Dr.</option>
+                        </select>
+                    </div>
+                    <div class="col-md-5">
+                        <label class="form-label fw-bold text-secondary">Ad</label>
+                        <input asp-for="Ad" class="form-control" required placeholder="Örn: Ahmet" />
+                    </div>
+                    <div class="col-md-5">
+                        <label class="form-label fw-bold text-secondary">Soyad</label>
+                        <input asp-for="Soyad" class="form-control" required placeholder="Örn: Yılmaz" />
+                    </div>
+                </div>
+
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold text-secondary">Bölüm</label>
+                        <select name="BolumId" class="form-select" required>
+                            <option value="">-- Bölüm Seçiniz --</option>
+                            @if (ViewBag.Bolumler != null)
+                            {
+                                @foreach (var b in ViewBag.Bolumler)
+                                {
+                                    <option value="@b.BolumId">@b.BolumAdi</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold text-secondary">Email Adresi</label>
+                        <input asp-for="Email" type="email" class="form-control" required placeholder="ornek@universite.edu.tr" />
+                    </div>
+                </div>
+
+                <hr class="my-4 text-muted opacity-25">
+
+                <div class="row mb-4">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold text-primary">Kullanıcı Adı</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-light"><i class="fa-solid fa-user"></i></span>
+                            <input name="KullaniciAdi" class="form-control" required placeholder="Sisteme giriş için" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold text-primary">Şifre</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-light"><i class="fa-solid fa-lock"></i></span>
+                            <input name="Sifre" type="password" class="form-control" required placeholder="******" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-success btn-lg shadow-sm hover-scale">
+                        <i class="fa-solid fa-save me-2"></i> Hocayı Kaydet
+                    </button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .hover-scale {
+        transition: transform 0.2s;
+    }
+
+        .hover-scale:hover {
+            transform: scale(1.01);
+        }
+</style>

@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\dersac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\dersac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\dersekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\dersekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\models\\der.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\der.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\dersliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\dersliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\bolumekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\bolumekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\bolumliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\bolumliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\controllers\\ogretimuyesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\ogretimuyesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\ogretimuyesi\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogretimuyesi\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\models\\ogretimuyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\ogretimuyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogrenciliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogrenciliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\ogrenci\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogrenci\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogretimuyesiliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogretimuyesiliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogretimuyesiekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogretimuyesiekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogrenciekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogrenciekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\ogrenci\\derssec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogrenci\\derssec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\models\\odevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\odevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\ogretimuyesi\\notgir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogretimuyesi\\notgir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\models\\derskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\derskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|c:\\users\\42ard\\onedrive\\masa\u00FCst\u00FC\\visualstdio\\derskayitnottakip\\derskayitnottakip\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DersEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T11:51:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAqwPcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:37:56.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DersAc.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T11:53:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwF8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T11:59:38.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAOQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T14:16:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T13:49:41.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:34:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Der.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\Der.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\Der.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\Der.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\Der.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T12:25:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DersListe.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T12:17:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BolumEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T11:48:41.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BolumListe.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T11:48:09.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OgretimUyesi.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T11:27:13.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OgretimUyesiController.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:19:01.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OgrenciListe.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T12:38:58.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T11:22:57.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T14:20:58.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:15:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:34:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OgretimUyesiListe.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T10:50:10.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OgretimUyesiEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T10:50:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OgrenciEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T12:39:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DersKayitNotTakip\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T11:18:21.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.json",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\appsettings.json",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.json",
+              "RelativeToolTip": "DersKayitNotTakip\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T10:49:15.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DersSec.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T14:53:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OdevContext.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OdevContext.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\OdevContext.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OdevContext.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\OdevContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:18:36.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.Development.json",
+              "RelativeToolTip": "DersKayitNotTakip\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T16:17:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Program.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Program.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Program.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:21:10.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NotGir.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T11:23:45.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DersKayit.cs",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\DersKayit.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\DersKayit.cs",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\DersKayit.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\DersKayit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:27:50.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\42ard\\OneDrive\\Masa\u00FCst\u00FC\\visualstdio\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T12:30:57.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

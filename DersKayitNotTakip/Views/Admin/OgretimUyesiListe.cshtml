@@ -1,0 +1,77 @@
+﻿@model List<DersKayitNotTakip.Models.OgretimUyesi>
+
+<div class="card card-custom p-4 border-0 shadow">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h3 class="text-secondary fw-bold"><i class="fa-solid fa-chalkboard-user"></i> Akademisyenler</h3>
+        <a asp-action="OgretimUyesiEkle" class="btn btn-success shadow-sm fw-bold">
+            <i class="fa-solid fa-user-plus"></i> Yeni Hoca Ekle
+        </a>
+    </div>
+
+    @if (TempData["Hata"] != null)
+    {
+        <div class="alert alert-danger shadow-sm d-flex align-items-center">
+            <i class="fa-solid fa-circle-exclamation me-2"></i> @TempData["Hata"]
+        </div>
+    }
+    @if (TempData["Basarili"] != null)
+    {
+        <div class="alert alert-success shadow-sm d-flex align-items-center">
+            <i class="fa-solid fa-check-circle me-2"></i> @TempData["Basarili"]
+        </div>
+    }
+
+    <div class="table-responsive">
+        <table class="table table-hover align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>Unvan</th>
+                    <th>Ad Soyad</th>
+                    <th>Bölüm</th>
+                    <th>Email</th>
+                    <th class="text-end" style="width: 140px;">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var u in Model)
+                    {
+                        <tr>
+                            <td><span class="badge bg-primary bg-opacity-75">@u.Unvan</span></td>
+                            <td class="fw-bold text-dark">@u.Ad @u.Soyad</td>
+                            <td>
+                                <span class="badge bg-light text-dark border">
+                                    @(u.Bolum?.BolumAdi ?? "-")
+                                </span>
+                            </td>
+                            <td>
+                                <a href="mailto:@u.Email" class="text-decoration-none text-muted">
+                                    <i class="fa-regular fa-envelope me-1"></i> @u.Email
+                                </a>
+                            </td>
+                            <td class="text-end">
+                                <a asp-action="OgretimUyesiDuzenle" asp-route-id="@u.OgretimUyesiId" class="btn btn-sm btn-outline-primary me-1" title="Düzenle">
+                                    <i class="fa-solid fa-pen-to-square"></i>
+                                </a>
+
+                                <a asp-action="OgretimUyesiSil" asp-route-id="@u.OgretimUyesiId" class="btn btn-sm btn-outline-danger" title="Sil">
+                                    <i class="fa-solid fa-trash"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5" class="text-center py-5 text-muted">
+                            <i class="fa-solid fa-user-tie fa-2x mb-3 d-block opacity-50"></i>
+                            Henüz sisteme kayıtlı akademisyen bulunmamaktadır.
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

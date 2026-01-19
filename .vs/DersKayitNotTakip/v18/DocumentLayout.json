@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogrenciliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogrenciliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogretimuyesiliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogretimuyesiliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogretimuyesiduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogretimuyesiduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogrenciduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogrenciduzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogrenciekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogrenciekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogretimuyesiekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogretimuyesiekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\bolumliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\bolumliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\ogretimuyesisil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\ogretimuyesisil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\bolumsil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\bolumsil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\dersliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\dersliste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\derssil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\derssil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\dersekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\dersekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\ogrenci\\derssec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogrenci\\derssec.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\ogretimuyesi\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogretimuyesi\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\ogretimuyesi\\notgir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogretimuyesi\\notgir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\ogrenci\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\ogrenci\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\dersac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\dersac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\bolumekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\bolumekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\views\\admin\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\views\\admin\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\models\\der.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\der.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\controllers\\ogretimuyesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\ogretimuyesicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\models\\ogretimuyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\ogretimuyesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\models\\odevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\odevcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|d:\\derskayitnottakip\\derskayitnottakip\\derskayitnottakip\\models\\derskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10587C-E086-4F16-BDE2-DB27158B1C7E}|DersKayitNotTakip\\DersKayitNotTakip.csproj|solutionrelative:derskayitnottakip\\models\\derskayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgretimUyesiDuzenle.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiDuzenle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiDuzenle.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiDuzenle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiDuzenle.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0YAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T15:04:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciDuzenle.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciDuzenle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgrenciDuzenle.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciDuzenle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgrenciDuzenle.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0YAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T15:04:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgretimUyesiListe.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiListe.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgretimUyesiEkle.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiEkle.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAADwv2YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciListe.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgrenciListe.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BolumListe.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\BolumListe.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvz8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAADwvxYCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OgrenciEkle.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgrenciEkle.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1AAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OgretimUyesiSil.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiSil.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiSil.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\OgretimUyesiSil.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\OgretimUyesiSil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T14:45:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BolumSil.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumSil.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\BolumSil.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumSil.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\BolumSil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T14:44:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DersSil.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersSil.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersSil.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersSil.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersSil.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvycAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T14:36:04.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DersListe.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersListe.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DersSec.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Ogrenci\\DersSec.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAowNQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Program.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Program.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Program.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DersEkle.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersEkle.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:29.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAwDkBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T14:01:25.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T14:00:59.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:56:44.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-21T13:58:25.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:56:14.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:44:39.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotGir.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\OgretimUyesi\\NotGir.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\OgretimUyesi\\Panel.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0AAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:44:21.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Ogrenci\\Panel.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1IAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DersAc.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\DersAc.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvycAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BolumEkle.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\BolumEkle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "RelativeToolTip": "DersKayitNotTakip\\Views\\Admin\\Panel.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T13:09:30.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Der.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\Der.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\Der.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\Der.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\Der.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OgretimUyesi.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\OgretimUyesi.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OgretimUyesiController.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\OgretimUyesiController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Controllers\\OgrenciController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DersKayitNotTakip\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T13:09:30.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.json",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\appsettings.json",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.json",
+              "RelativeToolTip": "DersKayitNotTakip\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T13:09:30.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OdevContext.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OdevContext.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\OdevContext.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\OdevContext.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\OdevContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\appsettings.Development.json",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\appsettings.Development.json",
+              "RelativeToolTip": "DersKayitNotTakip\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T13:09:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DersKayit.cs",
+              "DocumentMoniker": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\DersKayit.cs",
+              "RelativeDocumentMoniker": "DersKayitNotTakip\\Models\\DersKayit.cs",
+              "ToolTip": "D:\\DersKayitNotTakip\\DersKayitNotTakip\\DersKayitNotTakip\\Models\\DersKayit.cs",
+              "RelativeToolTip": "DersKayitNotTakip\\Models\\DersKayit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:09:30.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

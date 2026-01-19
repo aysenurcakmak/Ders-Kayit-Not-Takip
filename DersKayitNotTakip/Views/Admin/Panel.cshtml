@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Yönetim Paneli";
+}
+
+<div class="container-fluid">
+    <h2 class="mb-4 text-dark fw-bold">👋 Hoşgeldiniz, Admin</h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-3">
+            <div class="card card-custom p-3 border-start border-5 border-primary h-100">
+                <div class="d-flex align-items-center">
+                    <div class="bg-primary bg-opacity-10 p-3 rounded-circle text-primary">
+                        <i class="fa-solid fa-user-graduate fa-2x"></i>
+                    </div>
+                    <div class="ms-3">
+                        <h6 class="text-muted mb-0">Öğrenci İşlemleri</h6>
+                        <a asp-action="OgrenciListe" class="text-decoration-none fw-bold stretched-link">Listeye Git</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card card-custom p-3 border-start border-5 border-success h-100">
+                <div class="d-flex align-items-center">
+                    <div class="bg-success bg-opacity-10 p-3 rounded-circle text-success">
+                        <i class="fa-solid fa-chalkboard-user fa-2x"></i>
+                    </div>
+                    <div class="ms-3">
+                        <h6 class="text-muted mb-0">Öğretim Üyeleri</h6>
+                        <a asp-action="OgretimUyesiListe" class="text-decoration-none fw-bold stretched-link">Listeye Git</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card card-custom p-3 border-start border-5 border-warning h-100">
+                <div class="d-flex align-items-center">
+                    <div class="bg-warning bg-opacity-10 p-3 rounded-circle text-warning">
+                        <i class="fa-solid fa-building-columns fa-2x"></i>
+                    </div>
+                    <div class="ms-3">
+                        <h6 class="text-muted mb-0">Bölümler</h6>
+                        <a asp-action="BolumListe" class="text-decoration-none fw-bold stretched-link">Yönet</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card card-custom p-3 border-start border-5 border-danger h-100">
+                <div class="d-flex align-items-center">
+                    <div class="bg-danger bg-opacity-10 p-3 rounded-circle text-danger">
+                        <i class="fa-solid fa-book-open fa-2x"></i>
+                    </div>
+                    <div class="ms-3">
+                        <h6 class="text-muted mb-0">Ders İşlemleri</h6>
+                        <a asp-action="DersListe" class="text-decoration-none fw-bold stretched-link">Listele</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h5 class="mt-5 mb-3 text-muted">Hızlı İşlemler</h5>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card card-custom p-4">
+                <div class="d-flex gap-3 flex-wrap">
+                    <a asp-action="OgrenciEkle" class="btn btn-outline-primary btn-lg">
+                        <i class="fa-solid fa-plus"></i> Öğrenci Ekle
+                    </a>
+                    <a asp-action="OgretimUyesiEkle" class="btn btn-outline-success btn-lg">
+                        <i class="fa-solid fa-plus"></i> Hoca Ekle
+                    </a>
+                    <a asp-action="DersAc" class="btn btn-outline-dark btn-lg">
+                        <i class="fa-solid fa-calendar-check"></i> Ders Aç (Atama Yap)
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

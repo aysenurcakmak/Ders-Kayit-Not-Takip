@@ -1,0 +1,31 @@
+/* Genel Font Ayarı */
+html[b-zayc51ptff] {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html[b-zayc51ptff] {
+        font-size: 16px;
+    }
+}
+
+/* Link renklerini sisteme uydurma */
+a[b-zayc51ptff] {
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+    a:hover[b-zayc51ptff] {
+        color: #0d6efd; /* Bootstrap Primary Color */
+    }
+
+/* Buton focus efekti */
+.btn:focus[b-zayc51ptff], .btn:active:focus[b-zayc51ptff], .btn-link.nav-link:focus[b-zayc51ptff], .form-control:focus[b-zayc51ptff], .form-check-input:focus[b-zayc51ptff] {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #0d6efd;
+}
+
+/* Footer'ın sayfa altına yapışmasını garantiye alma */
+html[b-zayc51ptff] {
+    position: relative;
+    min-height: 100%;
+}

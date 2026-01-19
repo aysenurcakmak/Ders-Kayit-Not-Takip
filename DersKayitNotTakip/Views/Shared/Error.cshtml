@@ -1,0 +1,35 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Hata";
+}
+
+<div class="container text-center mt-5 pt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card border-0 shadow-sm p-5">
+                <div class="mb-4 text-danger">
+                    <i class="fa-solid fa-triangle-exclamation fa-5x"></i>
+                </div>
+
+                <h1 class="text-danger fw-bold">Bir Hata Oluştu!</h1>
+                <p class="lead text-muted mt-3">
+                    İşleminiz sırasında beklenmedik bir sorun meydana geldi. Lütfen daha sonra tekrar deneyiniz.
+                </p>
+
+                @if (Model.ShowRequestId)
+                {
+                    <div class="alert alert-light border mt-4">
+                        <small class="text-muted fw-bold text-uppercase">Hata Kodu (Request ID)</small><br>
+                        <code class="fs-5 text-dark">@Model.RequestId</code>
+                    </div>
+                }
+
+                <div class="mt-4">
+                    <a href="/" class="btn btn-primary px-4 rounded-pill">
+                        <i class="fa-solid fa-house me-2"></i> Anasayfaya Dön
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

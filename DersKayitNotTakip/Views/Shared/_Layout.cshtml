@@ -1,0 +1,213 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    // Login olurken Session'a attığın "YetkiID" değerini okuyoruz.
+    // Eğer Session boşsa (giriş yapılmamışsa) null gelir.
+    var yetkiId = HttpContextAccessor.HttpContext.Session.GetInt32("YetkiID");
+
+    // Kullanıcı adını da ekrana yazmak istersen:
+    var adSoyad = HttpContextAccessor.HttpContext.Session.GetString("AdSoyad") ?? "Kullanıcı";
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OBS Sistemi</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6;
+            overflow-x: hidden;
+        }
+
+        /* SIDEBAR (YAN MENÜ) STİLLERİ */
+        .sidebar {
+            width: 280px;
+            height: 100vh;
+            background-color: #1e293b; /* Koyu Lacivert */
+            color: #fff;
+            position: fixed;
+            top: 0;
+            left: 0;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            transition: all 0.3s;
+            z-index: 1000;
+        }
+
+        .sidebar-header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .user-info {
+            font-size: 0.9rem;
+            color: #94a3b8;
+            margin-top: 5px;
+        }
+
+        .nav-links {
+            flex-grow: 1;
+            overflow-y: auto;
+        }
+
+        .nav-category {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            color: #64748b;
+            margin-top: 20px;
+            margin-bottom: 8px;
+            padding-left: 10px;
+            letter-spacing: 1px;
+            font-weight: 700;
+        }
+
+        .sidebar a {
+            text-decoration: none;
+            color: #cbd5e1;
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            transition: 0.2s;
+            font-size: 0.95rem;
+        }
+
+            .sidebar a:hover {
+                background-color: #334155;
+                color: #fff;
+                transform: translateX(5px);
+            }
+
+            .sidebar a i {
+                width: 25px;
+                font-size: 1.1rem;
+                margin-right: 10px;
+                text-align: center;
+            }
+
+            /* Aktif link rengi (İstersen JS ile active class ekletebilirsin) */
+            .sidebar a.active {
+                background-color: #3b82f6;
+                color: white;
+            }
+
+        .logout-btn {
+            margin-top: auto;
+            background-color: rgba(239, 68, 68, 0.1);
+            color: #ef4444 !important;
+            justify-content: center;
+            font-weight: 600;
+            border: 1px solid rgba(239, 68, 68, 0.2);
+        }
+
+            .logout-btn:hover {
+                background-color: #ef4444 !important;
+                color: white !important;
+            }
+
+        .main-content {
+            margin-left: 280px;
+            padding: 30px;
+            min-height: 100vh;
+        }
+
+        @@media (max-width: 992px) {
+            .sidebar {
+                transform: translateX(-100%);
+                width: 250px;
+            }
+
+                .sidebar.active {
+                    transform: translateX(0);
+                }
+
+            .main-content {
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div style="font-size: 1.5rem; font-weight: bold; color: #60a5fa;">
+                <i class="fa-solid fa-graduation-cap"></i> OBS
+            </div>
+            <div class="user-info">
+                Merhaba, @adSoyad
+            </div>
+        </div>
+
+        <div class="nav-links">
+
+            <a href="/Home/Index"><i class="fa-solid fa-house"></i> Anasayfa</a>
+
+            @if (yetkiId == 1)
+            {
+                /* --- ADMIN MENÜSÜ --- */
+                <div class="nav-category">Yönetim Paneli</div>
+                <a href="/Admin/Panel"><i class="fa-solid fa-gauge-high"></i> Dashboard</a>
+                <a href="/Admin/OgrenciListe"><i class="fa-solid fa-users"></i> Öğrenci İşlemleri</a>
+                <a href="/Admin/OgretimUyesiListe"><i class="fa-solid fa-chalkboard-user"></i> Akademisyenler</a>
+                <a href="/Admin/BolumListe"><i class="fa-solid fa-building-columns"></i> Bölümler</a>
+                <a href="/Admin/DersListe"><i class="fa-solid fa-book"></i> Ders Yönetimi</a>
+                <a href="/Admin/DersAc"><i class="fa-solid fa-calendar-check"></i> Ders Açma (Atama)</a>
+            }
+            else if (yetkiId == 2)
+            {
+                /* --- ÖĞRENCİ MENÜSÜ --- */
+                <div class="nav-category">Öğrenci İşlemleri</div>
+                <a href="/Ogrenci/Panel"><i class="fa-solid fa-list-check"></i> Notlarım & Transkript</a>
+                <a href="/Ogrenci/DersSec"><i class="fa-solid fa-hand-pointer"></i> Ders Seçimi</a>
+            }
+            else if (yetkiId == 3)
+            {
+                /* --- AKADEMİSYEN MENÜSÜ --- */
+                <div class="nav-category">Akademik Personel</div>
+                <a href="/OgretimUyesi/Panel"><i class="fa-solid fa-users-viewfinder"></i> Dersimdeki Öğrenciler</a>
+            }
+            else
+            {
+                /* --- GİRİŞ YAPMAMIŞ KİŞİ --- */
+                <div class="nav-category">Giriş Yap</div>
+                <a href="/Account/Login"><i class="fa-solid fa-right-to-bracket"></i> Oturum Aç</a>
+            }
+
+        </div>
+
+        @if (yetkiId != null)
+        {
+            <a asp-controller="Account" asp-action="Logout" class="logout-btn">
+                <i class="fa-solid fa-power-off"></i> Güvenli Çıkış
+            </a>
+        }
+    </div>
+
+    <div class="main-content">
+        <button class="btn btn-dark d-lg-none mb-4 shadow-sm" onclick="document.getElementById('sidebar').classList.toggle('active')">
+            <i class="fa-solid fa-bars me-2"></i> Menü
+        </button>
+
+        @RenderBody()
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
