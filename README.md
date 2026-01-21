@@ -12,20 +12,27 @@ Bu sistemde Admin, Öğretim Üyesi ve Öğrenci olmak üzere üç farklı kulla
 * **Veritabanı:** MS SQL Server, Entity Framework Core
 * **Frontend:** HTML, CSS, Bootstrap, JavaScript
 * **IDE:** Visual Studio 2022
+  <img width="1906" height="1033" alt="image" src="https://github.com/user-attachments/assets/52d78af7-4c6c-47e5-a139-fa5ff9f93d81" />
 
 ### Temel Özellikler
 
 **Admin Modülü:**
 * Öğrenci, Öğretim Üyesi ve Bölüm ekleme/silme/güncelleme işlemleri.
 * Ders atamaları ve kullanıcı yetkilendirmeleri.
+  <img width="1900" height="1020" alt="image" src="https://github.com/user-attachments/assets/449dabe6-e2a8-445b-b764-4b896a31198c" />
+
 
 **Öğretim Üyesi Modülü:**
 * Verilen derslerin listelenmesi.
 * Öğrencilere vize ve final notu girişi yapılması.
+  <img width="1907" height="1002" alt="image" src="https://github.com/user-attachments/assets/c07b00fc-91e6-45e4-acf7-8fdd28072b66" />
+
 
 **Öğrenci Modülü:**
 * Aktif dönem derslerinin seçilmesi (Ders Kayıt).
 * Sınav notlarının ve başarı durumunun görüntülenmesi.
+  <img width="1900" height="1041" alt="image" src="https://github.com/user-attachments/assets/93764496-5ba2-4eae-8c76-caee9c4b42e3" />
+
 
 ### Kurulum
 
